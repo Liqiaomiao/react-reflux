@@ -1,4 +1,3 @@
-# react-reflux
 # react-reflux计数练习
 1. 下载后 npm i 安装所有依赖
 2. 个人理解stroe/action 中的trigger 是用来传递数据用,stroe 监听action  (store.listen(self.onStatusChange.bind(self))) 后 ,执行self.onStatusChange.bind(self))这个方法。
